@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule: # gera todo dia às 23h59
+  schedule: # gera todo dia às 23h59 UTC
     - cron: "59 23 * * *"
-  workflow_dispatch: # permite rodar manualmente
+  workflow_dispatch: # permite rodar manualmente pelo Actions
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: <seu-usuário>
+          github_user_name: minimarcelino
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push snake to the output branch
