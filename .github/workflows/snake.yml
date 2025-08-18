@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write   # 👉 dá permissão para a Action criar/atualizar branch
+
 on:
   schedule: # gera todo dia às 23h59 UTC
     - cron: "59 23 * * *"
