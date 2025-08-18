@@ -1,7 +1,9 @@
 ## Olá! Eu sou a Maria Vitoria. 👋
 
-- 🔭 Atualmente sou graduanda em Ciência da Computação no IFSP.
-- 🌱 Gosto de aprender constantemente sobre inteligência artificial e front-end.
+- 🎓 Estudante de Ciência da Computação no IFSP
+- 💻 Apaixonada por tecnologia, programação e aprender coisas novas
+- 📚 Explorando áreas como IA, Banco de Dados e Desenvolvimento Web
+- ✨ Sempre buscando melhorar e criar soluções criativas
 
 ### 📊 Estatísticas
 
@@ -52,3 +54,5 @@
   <a href="https://www.linkedin.com/in/mv-furrier" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/minimarcelino/minimarcelino/blob/output/github-contribution-grid-snake.svg)
